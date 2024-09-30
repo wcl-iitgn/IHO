@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/IHO/static/css/main.ccab631f.css",
-    "main.js": "/IHO/static/js/main.8af3aaf6.js",
-    "static/js/765.a0bd4789.chunk.js": "/IHO/static/js/765.a0bd4789.chunk.js",
+    "main.css": "/IHO/static/css/main.6fff21cf.css",
+    "main.js": "/IHO/static/js/main.58497336.js",
+    "static/js/765.b28b29a6.chunk.js": "/IHO/static/js/765.b28b29a6.chunk.js",
     "static/js/184.0d1715e9.chunk.js": "/IHO/static/js/184.0d1715e9.chunk.js",
     "static/media/Aman_Chaudhary.jpg": "/IHO/static/media/Aman_Chaudhary.b8c4a4125cb023398def.jpg",
     "static/media/dipesh.jpg": "/IHO/static/media/dipesh.c58862932153dd0901c8.jpg",
@@ -28,13 +28,13 @@
     "static/media/tmax_anm.jpg": "/IHO/static/media/tmax_anm.80161eb5f5e8c30c0370.jpg",
     "static/media/drought.jpg": "/IHO/static/media/drought.95fbc6c7aedaabe9b4fe.jpg",
     "index.html": "/IHO/index.html",
-    "main.ccab631f.css.map": "/IHO/static/css/main.ccab631f.css.map",
-    "main.8af3aaf6.js.map": "/IHO/static/js/main.8af3aaf6.js.map",
-    "765.a0bd4789.chunk.js.map": "/IHO/static/js/765.a0bd4789.chunk.js.map",
+    "main.6fff21cf.css.map": "/IHO/static/css/main.6fff21cf.css.map",
+    "main.58497336.js.map": "/IHO/static/js/main.58497336.js.map",
+    "765.b28b29a6.chunk.js.map": "/IHO/static/js/765.b28b29a6.chunk.js.map",
     "184.0d1715e9.chunk.js.map": "/IHO/static/js/184.0d1715e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ccab631f.css",
-    "static/js/main.8af3aaf6.js"
+    "static/css/main.6fff21cf.css",
+    "static/js/main.58497336.js"
   ]
 }
