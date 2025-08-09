@@ -22,10 +22,14 @@ const Footer = () => {
                   AB-4/326,<br />
                   Indian Institute of Technology Gandhinagar.<br />
                   Palaj, Gandhinagar, Gujarat, PIN - 382355.</p>
-                <p><a href='https://clustrmaps.com/site/1by8e' target="_blank" rel="noreferrer">Website Visitors <FaExternalLinkAlt /></a></p>
+                <p><a href='https://clustrmaps.com/site/1c1iv' target="_blank" rel="noreferrer">Website Visitors <FaExternalLinkAlt /></a></p>
 
               </div>
             </div>
+
+
+
+
 
 
 
@@ -33,8 +37,10 @@ const Footer = () => {
           <div className="footer-cta">
             <div style={{ display: "none" }}>
 
-              <a href="https://clustrmaps.com/site/1by8e" title="Visit tracker">
-                <img src="//www.clustrmaps.com/map_v2.png?d=zNzFcEcqWq6c1Xwy2x6RUJ2uRg9mdae-FKKa0GVhMt4&cl=ffffff" alt="Visitor map" /></a>
+              <a href="https://clustrmaps.com/site/1c1iv" title="Visit tracker">
+
+                <img src="//www.clustrmaps.com/map_v2.png?d=MdijNfTpMPCI4PGXC0kvchGNjjMW9L2xGTZ4z4B79yA&cl=ffffff" alt="Visitor map"/>
+                </a>
 
             </div>
 
