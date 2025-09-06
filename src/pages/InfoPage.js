@@ -4,6 +4,9 @@ import VimalMishra from '../assets/images/VimalMishra.jpeg'
 import dipesh from '../assets/images/dipesh.jpg'
 import Aman_Chaudhary from '../assets/images/Aman_Chaudhary.jpg'
 import Rajesh from '../assets/images/Rajesh Singh.jpg'
+import Paras from '../assets/images/Paras.jpeg'
+import Devesh from '../assets/images/Devesh.jpeg'
+
 
 const InfoPage = () => {
     return (
@@ -117,7 +120,7 @@ const InfoPage = () => {
                                     <a href="https://scholar.google.co.in/citations?user=wq7CgpUAAAAJ&hl=en" target="_blank" rel="noreferrer noopener"> Prof. Vimal Mishra <br/>(Professor) </a><br />
                                     Department of Civil Engineering, IIT Gandhinagar<br />
                                     email: vmishra@iitgn.ac.in<br/>
-                                    Office: AB6/330, IIT Gandhinagar
+                                    {/* Office: AB6/330, IIT Gandhinagar */}
                                 </p>
                             </div>
                         </div>
@@ -140,10 +143,46 @@ const InfoPage = () => {
                                         Dr. Rajesh Singh <br/>(Post Doctorate Fellow)</a><br />
                                     Department of Civil Engineering, IIT Gandhinagar<br/>
                                     email: rajesh.singh@iitgn.ac.in<br/>
-                                    Office: AB4/326, IIT Gandhinagar
+                                    {/* Office: AB4/326, IIT Gandhinagar */}
                                 </p>
                             </div>
                         </div>
+
+
+                        <div className="col-md-3">
+                                <div className="contact-image">
+                                    <img src={Paras} alt="Paras" />
+                                </div>
+                            </div>
+                            <div className="col-md-3">
+                                <div className="contact-image-caption">
+                                    <p>
+                                        <a href="https://scholar.google.com/citations?user=oc7ooUkAAAAJ&hl=en" target="_blank" rel="noreferrer noopener">
+                                            Paras Sharma</a><br />
+                                        PhD Research Scholar, Civil Engineering <br />
+                                        IIT Gandhinagar<br />
+                                        email: paras.sharma@iitgn.ac.in
+
+
+                                    </p>
+                                </div>
+                            </div>
+                            <div className="col-md-3">
+                                <div className="contact-image">
+                                    <img src={Devesh} alt="Devesh" />
+                                </div>
+                            </div>
+                            <div className="col-md-3">
+                                <div className="contact-image-caption">
+                                    <p>
+                                        <a href="https://vmishra.people.iitgn.ac.in/water&climate/#/people/Devesh%20Mani" target="_blank" rel="noreferrer noopener">
+                                            Devesh Mani</a><br />
+                                        PhD Research Scholar, Civil Engineering <br />
+                                        IIT Gandhinagar<br />
+                                        email: 24350007@iitgn.ac.in
+                                    </p>
+                                </div>
+                            </div>
 
 
 
